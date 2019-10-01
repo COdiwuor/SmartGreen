@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "780414310765",
+    "firebase_url": "https://smartgreen-a7a42.firebaseio.com",
+    "project_id": "smartgreen-a7a42",
+    "storage_bucket": "smartgreen-a7a42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780414310765:android:6837fe6ca7913169b9e264",
+        "android_client_info": {
+          "package_name": "com.smartgreen.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780414310765-7tthd60ohtkg8tp4u4p1blc2ps04do04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPnnk93XA9OsoFrMczhPJjmHVEae_FYRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780414310765-7tthd60ohtkg8tp4u4p1blc2ps04do04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
